@@ -33,5 +33,4 @@ In this repository you can see deep learning, machine learning, simulation and a
 ### Creditos:
 - Juan Diego Castellanos: 
     * Contact Me:
-        - [LinkedIn](https://www.linkedin.com/in/juan-diego-castellanos-jerez-944267212/)    
-        - [Github](https://github.com/JuanDiegoCastellanos)
+        - [LinkedIn](https://www.linkedin.com/in/juan-diego-castellanos-jerez-944267212/)
