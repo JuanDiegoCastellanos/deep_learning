@@ -1,0 +1,4 @@
+python_modules
+.ipynb_checkpoints
+.vscode
+.metals
